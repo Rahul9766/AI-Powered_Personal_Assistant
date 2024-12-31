@@ -9,7 +9,6 @@ Sophia is an AI-powered chatbot that acts as a personal assistant, capable of co
 - **AI-Powered Responses**: Powered by Google’s Gemini API, Sophia provides intelligent, contextually relevant responses.
 - **User-Friendly Interface**: A modern and intuitive chat interface that adapts to both desktop and mobile screens.
 - **Interactive Experience**: Combines text, voice, and visual elements (avatars, animations) for a dynamic user experience.
-- **File Upload Capability**: Allows users to upload files for processing, with content-based responses based on the uploaded data.
 
 ## Technologies Used
 - **HTML5**: For creating the structure of the web page.
@@ -23,7 +22,6 @@ Sophia is an AI-powered chatbot that acts as a personal assistant, capable of co
 1. **Text Input**: Type a message into the input field, and Sophia will generate a response.
 2. **Voice Input**: Click the microphone button to speak your query. Sophia will listen, convert your speech to text, and respond with an answer.
 3. **Speech Output**: After processing the user query, Sophia reads its response aloud using a natural-sounding voice.
-4. **File Upload**: Users can upload files, which Sophia processes to generate a relevant response based on the file content.
 
 ## User Interface
 - **Chat Header**: Displays the title "Sophia" and a tagline "Your AI-Powered Personal Assistant."
@@ -36,7 +34,6 @@ Sophia is an AI-powered chatbot that acts as a personal assistant, capable of co
 - **Voice Recognition**: Uses the Web Speech API to capture and convert speech into text.
 - **AI Content Generation**: Sends the user's query to the Google Gemini API, which generates an AI-powered response.
 - **Text-to-Speech**: Converts AI responses to speech, offering an engaging, hands-free experience.
-- **File Input**: Users can upload a file (such as an image or document), and Sophia will process it to provide a relevant response.
 
 ## Demo
 You can view a live demo of the chatbot in action by visiting the following URL:  
