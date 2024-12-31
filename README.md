@@ -37,7 +37,7 @@ Sophia is an AI-powered chatbot that acts as a personal assistant, capable of co
 
 ## Demo
 You can view a live demo of the chatbot in action by visiting the following URL:  
-[Insert live demo URL here]
+https://rahul9766.github.io/Sophia-AI-Powered_Personal_Assistant/
 
 ## Acknowledgements
 - **Google Gemini API** for AI content generation.
