@@ -37,7 +37,7 @@
 
 ## Demo
 You can view a live demo of the chatbot in action by visiting the following URL:  
-https://rahul9766.github.io/Sophia-AI-Powered_Personal_Assistant/
+https://rahul9766.github.io/AI-Powered_Personal_Assistant/
 
 ## Acknowledgements
 - **Google Gemini API** for AI content generation.
