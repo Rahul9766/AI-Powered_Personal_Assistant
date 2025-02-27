@@ -1,4 +1,4 @@
-# Sophia - AI-Powered Personal Assistant Chatbot
+#  AI-Powered Personal Assistant Chatbot
 
 Sophia is an AI-powered chatbot that acts as a personal assistant, capable of conversing with users, providing helpful information, and performing tasks using advanced AI and voice interaction technologies.
 
