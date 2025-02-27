@@ -1,6 +1,6 @@
 #  AI-Powered Personal Assistant Chatbot
 
-Sophia is an AI-powered chatbot that acts as a personal assistant, capable of conversing with users, providing helpful information, and performing tasks using advanced AI and voice interaction technologies.
+ an AI-powered chatbot that acts as a personal assistant, capable of conversing with users, providing helpful information, and performing tasks using advanced AI and voice interaction technologies.
 
 ## Features
 - **Text-Based Interaction**: Users can ask questions and receive detailed responses through text.
